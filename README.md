@@ -6,7 +6,7 @@
 	
 </div>
 
-### You can see my Resume right down here ↓(Pinned Repository)
+### You can see my Resume right below here ↓(Pinned Repository)
 
 
 <!--
