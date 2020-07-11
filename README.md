@@ -1,4 +1,4 @@
-### Arttificial Intelligence Engineer 👋
+### Artificial Intelligence Engineer 👋
 
 <div align=center>
 	
