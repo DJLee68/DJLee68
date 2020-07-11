@@ -6,7 +6,6 @@
 	
 </div>
 
-### If you want to contact me, feel free to send an e-mail to ted4562000@naver.com
 ### You can see my Resume right down here ↓(Pinned Repository)
 
 
