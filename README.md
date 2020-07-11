@@ -6,8 +6,9 @@
 	
 </div>
 
-### You can see my Resume right down here(Pinned Repository)
-### ↓↓↓
+### If you want to contact me, feel free to send an e-mail to ted4562000@naver.com
+### You can see my Resume right down here ↓(Pinned Repository)
+
 
 <!--
 **DJLee68/DJLee68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
