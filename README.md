@@ -2,7 +2,7 @@
 
 
 
-### You can see my Resume right below here ↓(Pinned Repository)
+### You can see my Resume here ↓(Pinned Repository)
 
 
 <!--
